@@ -13,15 +13,15 @@
     "start": "node ./dist/main.js",
     "start:pm2": "pm2 start ecosystem.config.js && pm2 save && pm2 logs whatsappbot --raw"
   },
-  "author": "arugaz",
+  "author": "daddy",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArugaZ/whatsapp-bot.git"
+    "url": "https://github.com/papaigwe1234/Classique.git"
   },
   "bugs": {
-    "url": "https://github.com/ArugaZ/whatsapp-bot/issues"
+    "url": "https://github.com/Papaigwe1234/Classique/issues"
   },
-  "homepage": "https://github.com/ArugaZ/whatsapp-bot",
+  "homepage": "https://github.com/papaigwe1234/Classique",
   "license": "GPL-3.0-or-later",
   "engines": {
     "node": ">=16.0.0"
